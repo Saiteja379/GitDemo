@@ -7,4 +7,7 @@ public class GlobalValTest {
   public void f() {
 	  System.out.println("Jenkins");
   }
+  public void fc() {
+	  System.out.println("Jenkins");
+  }
 }
